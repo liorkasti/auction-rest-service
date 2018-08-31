@@ -1,0 +1,15 @@
+auction\AuctionItemImage.class
+auction\UsersController.class
+auction\User.class
+auction\AuctionItemBid.class
+auction\AuctionController.class
+auction\AuctionItemImageRepository.class
+auction\Auction.class
+auction\Greeting.class
+auction\AuctionItemsRepository.class
+auction\BidsRepository.class
+auction\GreetingController.class
+auction\AuctionsRepository.class
+auction\Application.class
+auction\AuctionItem.class
+auction\UserRepository.class
